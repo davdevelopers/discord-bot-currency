@@ -1,4 +1,4 @@
 # discord-bot-currency
-This code only for example
+This code only for example✅
 
-open App.js
+ℹ️ open App.js
